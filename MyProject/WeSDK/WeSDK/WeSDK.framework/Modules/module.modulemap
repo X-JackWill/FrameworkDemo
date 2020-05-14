@@ -1,0 +1,6 @@
+framework module WeSDK {
+  umbrella header "WeSDK.h"
+
+  export *
+  module * { export * }
+}
